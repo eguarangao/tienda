@@ -53,7 +53,7 @@ header("Cache-Control: no-cache, must-revalidate");
       <input type="password" id="clave" name="clave" class="form-control" placeholder="Contraseña" required minlength="6">
       <div class="checkbox mb-3">
         <label>
-          <input type="checkbox" value="remember-me"> Recordar mi sesión</label>
+          <input type="checkbox" value="remember-me"> Recordar mi sesión de usuario</label>
       </div>
       <div class="row">
         <div class="col">
